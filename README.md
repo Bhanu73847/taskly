@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Taskly
+A complete To-Do-List Application for creating and reminding the daily tasks for better improvement.
 
-A few resources to get you started if this is your first Flutter project:
+Create a Task:
+We can add our daily tasks by clicking on add button
+After clicking the add button, popUp will appear indicating to write the name of the task.
+After writing the task name simply click ok and the task will be added but with an uncheck box.
+We can check the box after completion of the task.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete the task:
+simply hold the task for a while and it will be deleted.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Filter:
+The checked tasks will be shown as cut on the other hand unchecked task will remain as such.
+
